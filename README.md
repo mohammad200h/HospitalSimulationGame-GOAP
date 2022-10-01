@@ -6,7 +6,7 @@ This is part of Mohammad Learning shit. I learned about Goal oriented action pla
 ![alt text](https://github.com/mohammad200h/HospitalSimulationGameGOAP/blob/main/Readme/Hospital.png?raw=true)
 
 ## You Like to know more! Watch these
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tdBWk2OVCWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uTFpUVptWk0/0.jpg)](https://www.youtube.com/watch?v=uTFpUVptWk0)
 
 
 ## How to Install this
